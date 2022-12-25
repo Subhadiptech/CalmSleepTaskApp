@@ -1,12 +1,11 @@
 package com.ersubhadip.multibottomsheets
 
 import android.content.Context
-import android.view.LayoutInflater
 import android.view.View
 import com.google.android.material.bottomsheet.BottomSheetDialog
 
 
-class MultiBottomSheet {
+class MultiBottomSheet{
     lateinit var bottomSheetDialog: BottomSheetDialog
     lateinit var sheetView: View
 
